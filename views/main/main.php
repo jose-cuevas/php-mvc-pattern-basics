@@ -15,6 +15,7 @@
     <h1>MVC Exercise</h1>
     <section class="list-group">
         <a href="?controller=employee&action=getAllEmployees" class="list-group-item">Employees Controller</a> 
+        <a href="?controller=hobbies&action=getAllHobbies" class="list-group-item">Hobbies Controller</a> 
     </section>
 
     

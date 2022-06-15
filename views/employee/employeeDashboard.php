@@ -13,7 +13,7 @@
 <body>
     <h1>Employees Dashboard</h1>
     <table class="table">
-    <thead>
+    <thead class="table-secondary">
         <td scope="col">Id</td>
         <td scope="col">Name</td>
         <td scope="col">Email</td>
